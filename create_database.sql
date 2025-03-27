@@ -1,5 +1,3 @@
 SELECT *
-
 FROM countries
-
-WHERE name = 'Ireland';
+WHERE country = 'Ireland';
